@@ -7,4 +7,4 @@ pip install -r requirements.txt
 python wallpaper.py <latitude> <longitude>
 
 ## Note:
-please keep retrying if you get error related to the API, because the free open API that I found (www.timeapi.io) fails sometimes.
+please keep retrying if you get error related to the API, because the free open API that I found (timeapi io) fails sometimes.
